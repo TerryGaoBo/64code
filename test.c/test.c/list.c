@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include "list.h"
-//初始化   头结点
+//初始化   头结点     我要修改这里
 void InitList(Plist plist)
 {
 	if(plist == NULL)
